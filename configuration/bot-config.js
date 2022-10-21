@@ -3,10 +3,10 @@ const chalk = require("chalk");
 const { doesNotThrow } = require("assert");
 
 // Other
-global.owner = ["6282370784874", "6283809215245"];
-global.staff = ["6283809215245"];
-global.footer = "Dignity by akbarr.dev";
-global.sessionName = "dignity";
+global.owner = ["6289661945278"];
+global.staff = ["6289661945278"];
+global.footer = "GPSG BY GANN";
+global.sessionName = "gpsg";
 global.prefa = ["", "/", "!", "."]; // "" = no prefix
 
 global.thumb = fs.readFileSync("./assets/image/dignity.jpg");
